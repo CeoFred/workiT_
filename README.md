@@ -5,3 +5,14 @@ How it works
 -Discover different web apps and graphics designs by various developers and designers.
 -Checkout with our paypal or credit card option.
 -The source code /job is delivered using this github repository on a private base.
+
+contributors
+-Johnson-Awah Alfred
+-
+-
+-
+-
+-
+-
+-
+-
